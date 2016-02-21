@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>User exam:</strong>
+  <%= @project.user_exam_id %>
+</p>
+
+<p>
+  <strong>Exam method:</strong>
+  <%= @project.exam_method %>
+</p>
+
+<%= link_to 'Edit', edit_project_path(@project) %> |
+<%= link_to 'Back', projects_path %>
