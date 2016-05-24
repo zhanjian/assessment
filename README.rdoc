@@ -3,9 +3,9 @@
 * sqlite3
 
 Installation
-git clone git@github.com:zhanjian/assessment.git
+* git clone git@github.com:zhanjian/assessment.git
 
 Run
-$ bundle install
-$ rake db:migrate
-$ rails s
+* $ bundle install
+* $ rake db:migrate
+* $ rails s
