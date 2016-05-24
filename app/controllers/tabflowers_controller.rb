@@ -1,0 +1,2 @@
+class TabflowersController < ApplicationController
+end
